@@ -5,13 +5,17 @@
 # gargi padate
 ### *turns coffee into robots that (mostly) don't fall over*
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=building+robots+with+trust+issues+%F0%9F%A4%96;ABU+Robocon+2026+software+dev;teaching+cameras+to+see+better+than+me;full+stack%2C+zero+chill;git+commit+-m+%22it+works+don%27t+ask%22" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=AIR+6+%40+ABU+Robocon+2026+%F0%9F%8F%86;building+robots+with+trust+issues+%F0%9F%A4%96;teaching+cameras+to+see+better+than+me;full+stack%2C+zero+chill;git+commit+-m+%22it+works+don%27t+ask%22" />
 
 <br>
 
 [![GitHub followers](https://img.shields.io/github/followers/Gargi4-git?style=for-the-badge&logo=github&color=58A6FF&labelColor=0d1117)](https://github.com/Gargi4-git)
 [![GitHub stars](https://img.shields.io/github/stars/Gargi4-git?affiliations=OWNER&style=for-the-badge&color=58A6FF&labelColor=0d1117)](https://github.com/Gargi4-git)
 [![Profile views](https://komarev.com/ghpvc/?username=Gargi4-git&style=for-the-badge&color=58A6FF&labelColor=0d1117)](https://github.com/Gargi4-git)
+
+<br>
+
+<img src="https://img.shields.io/badge/ABU_Robocon_2026-AIR_6_%F0%9F%8F%86-58A6FF?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -23,10 +27,10 @@
 name: Gargi Padate
 studying: B.Tech IT @ Vishwakarma Institute of Technology, Pune
 occupation: professional "have you tried turning it off and on again"-er
-current_boss: ABU Robocon 2026 deadline
+latest_flex: AIR 6 @ ABU Robocon 2026 🏆
 skills: convincing robots to cooperate, convincing myself 3am is a good time to debug
 red_flags: 47 browser tabs, all StackOverflow
-green_flags: the robot moved. it MOVED. on purpose. we're so back
+green_flags: the robot moved. it MOVED. on purpose. AIR 6. we ate.
 ```
 
 I make machines see stuff and write code that only breaks in front of judges. Certified AI/robotics gremlin.
@@ -39,10 +43,11 @@ I make machines see stuff and write code that only breaks in front of judges. Ce
 <tr>
 <td width="50%" valign="top">
 
-**🤖 robot arc**
-- Autonomous navigation for ABU Robocon 2026
+**🤖 robot arc — wrapped**
+- ABU Robocon 2026: closed out AIR 6 🏆
+- Autonomous navigation that actually navigated
 - Sensor fusion (fancy word for "please agree with each other")
-- ROS2 + ESP32 + genuine tears
+- ROS2 + ESP32 + genuine tears, all worth it
 
 </td>
 <td width="50%" valign="top">
@@ -92,8 +97,8 @@ I make machines see stuff and write code that only breaks in front of judges. Ce
 <tr>
 <td width="50%">
 
-### 🤖 Robocon 2026
-Autonomous robot navigation, built to survive a competition floor and my own last-minute code changes.
+### 🤖 Robocon 2026 — AIR 6 🏆
+Autonomous robot navigation that survived a competition floor, my own last-minute code changes, and came out with an All India Rank of 6.
 <br><br>
 `ROS2` `OpenCV` `Python` `ESP32`
 
@@ -150,8 +155,8 @@ Helps creators find opportunities before the algorithm decides they don't exist.
 
 ## 2026 delusions (goals, I mean goals)
 
+- [x] ~~Win ABU Robocon~~ AIR 6 and I will bring it up at every opportunity 🏆
 - [ ] 500+ LeetCode problems, mostly out of spite
-- [ ] Win ABU Robocon and gloat about it forever 🏆
 - [ ] Contribute to open source without immediately closing the tab in fear
 - [ ] Ship an AI project someone uses without me begging them to
 - [ ] Learn cloud/DevOps without a single existential crisis
