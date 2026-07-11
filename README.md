@@ -370,13 +370,7 @@ class GargiPadate:
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:58A6FF&section=footer"/>
-
-</div>
-
----
 
 # 🚀 Experience Timeline
 
@@ -683,6 +677,12 @@ Embedded Systems           ███████████ 60%
 
 ### 🚀 *"Building technology that creates real-world impact."*
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:58A6FF&section=footer"/>
+
+</div>
+
+---
 
 </div>
