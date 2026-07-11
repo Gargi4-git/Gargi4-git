@@ -3,9 +3,9 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90">
 
 # gargi padate
-### *she builds robots and they don't glitch (usually)*
+### *turns coffee into robots that (mostly) don't fall over*
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=building+AI+that+actually+ships+%F0%9F%9A%80;ABU+Robocon+2026+software+dev;computer+vision+%3E+regular+vision+%F0%9F%91%81%EF%B8%8F;full+stack%2C+all+chaos;probably+debugging+right+now+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=building+robots+with+trust+issues+%F0%9F%A4%96;ABU+Robocon+2026+software+dev;teaching+cameras+to+see+better+than+me;full+stack%2C+zero+chill;git+commit+-m+%22it+works+don%27t+ask%22" />
 
 <br>
 
@@ -17,39 +17,40 @@
 
 <br>
 
-## the tea ☕
+## a public service announcement about me
 
 ```yaml
-who: Gargi Padate
+name: Gargi Padate
 studying: B.Tech IT @ Vishwakarma Institute of Technology, Pune
-building_rn: ABU Robocon 2026 🤖 | AI/ML side projects 🧠 | full stack whatever
-brain_currently_full_of: ROS2, Edge AI, Embedded C, Computer Vision
-red_flag: I will rewrite this README five more times
-green_flag: I will actually finish the robot
+occupation: professional "have you tried turning it off and on again"-er
+current_boss: ABU Robocon 2026 deadline
+skills: convincing robots to cooperate, convincing myself 3am is a good time to debug
+red_flags: 47 browser tabs, all StackOverflow
+green_flags: the robot moved. it MOVED. on purpose. we're so back
 ```
 
-no cap, I like making machines see things and code that doesn't break in prod (most days).
+I make machines see stuff and write code that only breaks in front of judges. Certified AI/robotics gremlin.
 
 <br>
 
-## what's cooking rn
+## what chaos looks like this week
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🤖 robots era**
+**🤖 robot arc**
 - Autonomous navigation for ABU Robocon 2026
-- Sensor fusion, SLAM-ish stuff
-- ROS2 + ESP32 + tears
+- Sensor fusion (fancy word for "please agree with each other")
+- ROS2 + ESP32 + genuine tears
 
 </td>
 <td width="50%" valign="top">
 
-**🧠 AI era**
-- Deep learning models that (mostly) generalize
-- Computer vision with OpenCV
-- TensorFlow / PyTorch, pick a fighter
+**🧠 AI arc**
+- Deep learning models that generalize on Tuesdays
+- Computer vision, because regular vision is for humans
+- TensorFlow vs PyTorch: an ongoing civil war in my head
 
 </td>
 </tr>
@@ -57,7 +58,7 @@ no cap, I like making machines see things and code that doesn't break in prod (m
 
 <br>
 
-## stack check
+## the stack (a.k.a. things I've yelled at)
 
 <div align="center">
 
@@ -85,14 +86,14 @@ no cap, I like making machines see things and code that doesn't break in prod (m
 
 <br>
 
-## projects that hit different
+## projects I'll bring up unprompted
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🤖 Robocon 2026
-Autonomous robot navigation, built to actually survive a competition floor.
+Autonomous robot navigation, built to survive a competition floor and my own last-minute code changes.
 <br><br>
 `ROS2` `OpenCV` `Python` `ESP32`
 
@@ -100,7 +101,7 @@ Autonomous robot navigation, built to actually survive a competition floor.
 <td width="50%">
 
 ### 🧬 Skin Disease Detection
-CNN-based classifier for skin disease diagnosis. AI doing actual medical-adjacent work.
+A CNN that spots skin conditions better than I spot my own typos.
 <br><br>
 `TensorFlow` `Flask` `React` `Python`
 
@@ -110,7 +111,7 @@ CNN-based classifier for skin disease diagnosis. AI doing actual medical-adjacen
 <td width="50%">
 
 ### 🌱 CarbonMine
-Carbon emission tracking platform because the planet's not gonna save itself.
+Tracks carbon emissions because someone's gotta, and it's apparently me now.
 <br><br>
 `React` `TypeScript` `Firebase`
 
@@ -118,7 +119,7 @@ Carbon emission tracking platform because the planet's not gonna save itself.
 <td width="50%">
 
 ### 👻 GhostGap AI
-AI platform helping creators find opportunities before everyone else does.
+Helps creators find opportunities before the algorithm decides they don't exist.
 <br><br>
 `Next.js` `FastAPI` `Gemini AI`
 
@@ -128,7 +129,7 @@ AI platform helping creators find opportunities before everyone else does.
 
 <br>
 
-## receipts (github stats)
+## the receipts
 
 <div align="center">
 
@@ -147,18 +148,18 @@ AI platform helping creators find opportunities before everyone else does.
 
 <br>
 
-## 2026 goals (manifesting)
+## 2026 delusions (goals, I mean goals)
 
-- [ ] 500+ LeetCode problems solved
-- [ ] Win ABU Robocon 🏆
-- [ ] Actually contribute to open source (not just star repos)
-- [ ] Ship an AI project people use unprompted
-- [ ] Learn cloud/DevOps without crying
-- [ ] Build something used by more than 3 people
+- [ ] 500+ LeetCode problems, mostly out of spite
+- [ ] Win ABU Robocon and gloat about it forever 🏆
+- [ ] Contribute to open source without immediately closing the tab in fear
+- [ ] Ship an AI project someone uses without me begging them to
+- [ ] Learn cloud/DevOps without a single existential crisis
+- [ ] Build something used by more than 3 people (2 of whom are family)
 
 <br>
 
-## coding profiles
+## coding profiles (send help)
 
 <p align="center">
 <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
@@ -168,15 +169,15 @@ AI platform helping creators find opportunities before everyone else does.
 
 <br>
 
-## soundtrack to the chaos
+## soundtrack for 3am debugging
 
-lo-fi • synthwave • Hans Zimmer • Interstellar OST • electronic — basically anything that makes debugging feel cinematic
+lo-fi • synthwave • Hans Zimmer • Interstellar OST • electronic — anything that makes staring at a stack trace feel like a movie climax
 
 <br>
 
 <div align="center">
 
-### *"code is temporary, impact is permanent"*
+### *"code is temporary, impact is permanent, my sleep schedule is also temporary"*
 
 <br>
 
@@ -190,7 +191,7 @@ lo-fi • synthwave • Hans Zimmer • Interstellar OST • electronic — basi
 
 <br>
 
-⭐ if you're still scrolling, you might as well follow
+⭐ if you scrolled this far, we're basically friends now — follow and make it official
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:58A6FF&section=footer"/>
 
