@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gargi4-git/Gargi4-git/main/assets/hero.png" width="100%" />
 </p>
-*hello*
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gargi4-git/Gargi4-git/main/assets/who-i-am.png" width="100%" />
 </p>
